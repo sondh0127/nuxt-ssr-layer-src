@@ -11,6 +11,9 @@
     "lint": "eslint .",
     "postinstall": "nuxt prepare .playground"
   },
+  "dependencies": {
+    "clsx": "^2.1.0"
+  },
   "devDependencies": {
     "@nuxt/eslint-config": "^0.1.1",
     "eslint": "^8.28.0",
